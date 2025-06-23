@@ -27,3 +27,23 @@ This notebook covers:
 
 ## 📂 Repository Structure
 
+TensorFlow-Keras/
+├── TensorFlow_Keras.ipynb # Main notebook on deep learning concepts
+├── README.md # This documentation file
+
+
+
+---
+
+## 🛠️ Getting Started
+
+To explore or modify the notebook:
+
+1. Click the **"Open in Colab"** badge above.
+2. Run the notebook step by step.
+3. To make your own edits, go to `File > Save a copy in Drive`.
+
+If you want to run the notebook locally, install the following:
+
+```bash
+pip install tensorflow matplotlib numpy pandas
