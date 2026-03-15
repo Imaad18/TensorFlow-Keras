@@ -1,5 +1,7 @@
 # TensorFlow & Keras
 
+![Banner](assets/banner.jpeg)
+
 Welcome to the **TensorFlow & Keras** repository! This project contains a detailed Google Colab notebook that demonstrates the core concepts of deep learning using TensorFlow and Keras. It is ideal for beginners and intermediate learners who want hands-on experience with modern neural network tools and workflows.
 
 ## Open in Colab
